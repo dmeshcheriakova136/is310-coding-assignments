@@ -4,7 +4,7 @@
 
 1. Python
 
-![Python Installation](images/python-installation.png)
+![Python Installation](/images/python-installation.png)
 
 2. Git
 
