@@ -5,7 +5,7 @@
 
 Digital Library: https://gutenberg.org/
 
-![Hero Page Website](./images/hero.png)
+![Hero Page Website](./image.jpg)
 
 1. Gutenberg Digital Libraty was built with HTML, css, and have js page budndle. All of it I found in 'Inspect' for this website. When you click 'Read Me' on the books, you can wsee that the page gets open with .html in the end. When you access the folder, you can see the endings of the files in repo as .css .html and .js - they were main indicators for me.
 
