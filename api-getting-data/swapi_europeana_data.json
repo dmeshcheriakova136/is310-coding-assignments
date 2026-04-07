@@ -1,0 +1,5712 @@
+{
+  "swapi_character": {
+    "name": "Luke Skywalker",
+    "height": "172",
+    "mass": "77",
+    "hair_color": "blond",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "19BBY",
+    "gender": "male",
+    "homeworld": "https://swapi.dev/api/planets/1/",
+    "films": [
+      "https://swapi.dev/api/films/1/",
+      "https://swapi.dev/api/films/2/",
+      "https://swapi.dev/api/films/3/",
+      "https://swapi.dev/api/films/6/"
+    ],
+    "species": [],
+    "vehicles": [
+      "https://swapi.dev/api/vehicles/14/",
+      "https://swapi.dev/api/vehicles/30/"
+    ],
+    "starships": [
+      "https://swapi.dev/api/starships/12/",
+      "https://swapi.dev/api/starships/22/"
+    ],
+    "created": "2014-12-09T13:50:51.644000Z",
+    "edited": "2014-12-20T21:17:56.891000Z",
+    "url": "https://swapi.dev/api/people/1/"
+  },
+  "europeana_star_wars": [
+    {
+      "completeness": 5,
+      "country": [
+        "France"
+      ],
+      "dataProvider": [
+        "National Audiovisual Institute France"
+      ],
+      "dcLanguage": [
+        "fra",
+        "French"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "fra",
+          "French"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "STAR WARS"
+        ],
+        "en": [
+          "STAR WARS."
+        ],
+        "fr": [
+          "STAR WARS"
+        ]
+      },
+      "edmDatasetName": [
+        "2051908_Ag_EU_EUscreenXL_1024"
+      ],
+      "edmIsShownAt": [
+        "http://www.ina.fr/video/2948825001003/star-wars.fr.html#xtor=AL-3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.ina.fr%2Fimages_v2%2F320x240%2F2948825001003.jpeg&type=VIDEO"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2005-10-21"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2005-10-21"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2051908_Ag_EU_EUscreenXL_1024"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2051908/data_euscreenXL_ina_2948825001003?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2051908/data_euscreenXL_ina_2948825001003",
+      "index": 0,
+      "language": [
+        "fr"
+      ],
+      "link": "https://api.europeana.eu/record/2051908/data_euscreenXL_ina_2948825001003.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "EUscreen"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 151.03285,
+      "timestamp": 1752046756505,
+      "timestamp_created": "2015-06-08T13:09:38.450Z",
+      "timestamp_created_epoch": 1433768978450,
+      "timestamp_update": "2021-12-23T08:38:06.405Z",
+      "timestamp_update_epoch": 1640248686405,
+      "title": [
+        "STAR WARS",
+        "STAR WARS",
+        "STAR WARS."
+      ],
+      "type": "VIDEO",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 6,
+      "country": [
+        "France"
+      ],
+      "dataProvider": [
+        "National Audiovisual Institute France"
+      ],
+      "dcLanguage": [
+        "French",
+        "fra"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "French",
+          "fra"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "CONVENTION STAR WARS"
+        ],
+        "en": [
+          "CONVENTION STAR WARS",
+          "STAR WARS CONVENTION."
+        ]
+      },
+      "edmDatasetName": [
+        "2051908_Ag_EU_EUscreenXL_1024"
+      ],
+      "edmIsShownAt": [
+        "http://www.ina.fr/video/2834395001029/convention-star-wars.fr.html#xtor=AL-3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.ina.fr%2Fimages_v2%2F320x240%2F2834395001029.jpeg&type=VIDEO"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2005-05-14"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2005-05-14"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2051908_Ag_EU_EUscreenXL_1024"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/2051908/data_euscreenXL_ina_2834395001029?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2051908/data_euscreenXL_ina_2834395001029",
+      "index": 0,
+      "language": [
+        "fr"
+      ],
+      "link": "https://api.europeana.eu/record/2051908/data_euscreenXL_ina_2834395001029.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "EUscreen"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 142.43858,
+      "timestamp": 1752046735905,
+      "timestamp_created": "2015-06-08T13:09:19.205Z",
+      "timestamp_created_epoch": 1433768959205,
+      "timestamp_update": "2021-12-23T08:38:06.405Z",
+      "timestamp_update_epoch": 1640248686405,
+      "title": [
+        "CONVENTION STAR WARS",
+        "CONVENTION STAR WARS",
+        "STAR WARS CONVENTION."
+      ],
+      "type": "VIDEO",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 6,
+      "country": [
+        "France"
+      ],
+      "dataProvider": [
+        "National Audiovisual Institute France"
+      ],
+      "dcLanguage": [
+        "fra",
+        "French"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "fra",
+          "French"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Merchandising star wars"
+        ],
+        "en": [
+          "Merchandising star wars",
+          "Merchandising star wars."
+        ]
+      },
+      "edmDatasetName": [
+        "2051908_Ag_EU_EUscreenXL_1024"
+      ],
+      "edmIsShownAt": [
+        "http://www.ina.fr/video/CAB97066658/merchandising-star-wars.fr.html#xtor=AL-3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.ina.fr%2Fimages_v2%2F320x240%2FCAB97066658.jpeg&type=VIDEO"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1997-03-19"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1997-03-19"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2051908_Ag_EU_EUscreenXL_1024"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/2051908/data_euscreenXL_ina_CAB97066658?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2051908/data_euscreenXL_ina_CAB97066658",
+      "index": 0,
+      "language": [
+        "fr"
+      ],
+      "link": "https://api.europeana.eu/record/2051908/data_euscreenXL_ina_CAB97066658.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "EUscreen"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 142.05615,
+      "timestamp": 1752046773136,
+      "timestamp_created": "2015-06-08T13:23:01.650Z",
+      "timestamp_created_epoch": 1433769781650,
+      "timestamp_update": "2021-12-23T08:38:06.405Z",
+      "timestamp_update_epoch": 1640248686405,
+      "title": [
+        "Merchandising star wars",
+        "Merchandising star wars.",
+        "Merchandising star wars"
+      ],
+      "type": "VIDEO",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 6,
+      "country": [
+        "France"
+      ],
+      "dataProvider": [
+        "National Audiovisual Institute France"
+      ],
+      "dcLanguage": [
+        "French",
+        "fra"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "French",
+          "fra"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Produits d\u00e9riv\u00e9s \"Star wars\""
+        ],
+        "en": [
+          "Derivatives\\\\ \"star wars\\\""
+        ],
+        "fr": [
+          "Produits d\u00e9riv\u00e9s \"Star wars\""
+        ]
+      },
+      "edmDatasetName": [
+        "2051908_Ag_EU_EUscreenXL_1024"
+      ],
+      "edmIsShownAt": [
+        "http://www.ina.fr/video/CAC99029430/produits-derives-star-wars.fr.html#xtor=AL-3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.ina.fr%2Fimages_v2%2F320x240%2FCAC99029430.jpeg&type=VIDEO"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1999-07-13"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1999-07-13"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2051908_Ag_EU_EUscreenXL_1024"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/2051908/data_euscreenXL_ina_CAC99029430?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2051908/data_euscreenXL_ina_CAC99029430",
+      "index": 0,
+      "language": [
+        "fr"
+      ],
+      "link": "https://api.europeana.eu/record/2051908/data_euscreenXL_ina_CAC99029430.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "EUscreen"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 136.63611,
+      "timestamp": 1752046834571,
+      "timestamp_created": "2015-06-08T13:23:50.391Z",
+      "timestamp_created_epoch": 1433769830391,
+      "timestamp_update": "2021-12-23T08:38:06.405Z",
+      "timestamp_update_epoch": 1640248686405,
+      "title": [
+        "Produits d\u00e9riv\u00e9s \"Star wars\"",
+        "Derivatives\\\\ \"star wars\\\"",
+        "Produits d\u00e9riv\u00e9s \"Star wars\""
+      ],
+      "type": "VIDEO",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 5,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Department of Life Sciences, University of Trieste"
+      ],
+      "dcTitleLangAware": {
+        "def": [
+          "Magnolia 'Star Wars'"
+        ],
+        "en": [
+          "Magnolia \"Star Warms"
+        ],
+        "it": [
+          "Magnolia 'Star Wars'"
+        ]
+      },
+      "edmDatasetName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "edmIsShownAt": [
+        "http://dryades.units.it/dryades/viewer.php?image=TSB90858.jpg"
+      ],
+      "edmIsShownBy": [
+        "http://dryades.units.it/dryades/plants/foto/TSB90858.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "R\u00e9publique Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La R\u00e9publique italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Iod\u00e1il"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republica Italian\u0103"
+        },
+        {
+          "def": "Estat Itali\u00e0"
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Itali\u00eb"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "fi": [
+          "Italian tasavalta"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        ],
+        "sv": [
+          "Italia",
+          "Republiken Italien"
+        ],
+        "bg": [
+          "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        ],
+        "mt": [
+          "Repubblika Taljana"
+        ],
+        "en": [
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "hr": [
+          "Republika Italija"
+        ],
+        "it": [
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "fr": [
+          "R\u00e9publique Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La R\u00e9publique italienne",
+          "It.",
+          "Ital.",
+          "Ita."
+        ],
+        "es": [
+          "Rep\u00fablica Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Itaalia Vabariik"
+        ],
+        "sk": [
+          "Talianska republika"
+        ],
+        "ga": [
+          "Iod\u00e1il",
+          "Italia"
+        ],
+        "ro": [
+          "Republica Italian\u0103"
+        ],
+        "ca": [
+          "Estat Itali\u00e0",
+          "Rep\u00fablica Italiana"
+        ],
+        "nl": [
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Itali\u00eb",
+          "IT",
+          "ITA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lia"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "It\u0101lija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Olaszorsz\u00e1g"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iod\u00e1il"
+        },
+        {
+          "def": "It\u00e0lia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lie"
+        },
+        {
+          "def": "W\u0142ochy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Itali\u00eb"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "fi": [
+          "Italia"
+        ],
+        "pt": [
+          "It\u00e1lia"
+        ],
+        "bg": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "lv": [
+          "It\u0101lija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "fr": [
+          "Italie"
+        ],
+        "hu": [
+          "Olaszorsz\u00e1g"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iod\u00e1il"
+        ],
+        "ca": [
+          "It\u00e0lia"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "en": [
+          "Italy"
+        ],
+        "it": [
+          "Italia"
+        ],
+        "es": [
+          "Italia"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "cs": [
+          "It\u00e1lie"
+        ],
+        "pl": [
+          "W\u0142ochy"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "nl": [
+          "Itali\u00eb"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "42.5"
+      ],
+      "edmPlaceLongitude": [
+        "12.5"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdryades.units.it%2Fdryades%2Fplants%2Ffoto%2FTSB90858.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2011-04-09"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2011-04-09"
+        ]
+      },
+      "europeanaCollectionName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/11628/_FOTO_AM_UNITS_ITALY_80947?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/11628/_FOTO_AM_UNITS_ITALY_80947",
+      "index": 0,
+      "language": [
+        "it"
+      ],
+      "link": "https://api.europeana.eu/record/11628/_FOTO_AM_UNITS_ITALY_80947.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "OpenUp!"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-sa/3.0/"
+      ],
+      "score": 133.19325,
+      "timestamp": 1752042573259,
+      "timestamp_created": "2014-05-07T15:00:02.870Z",
+      "timestamp_created_epoch": 1399474802870,
+      "timestamp_update": "2017-08-01T13:53:33.673Z",
+      "timestamp_update_epoch": 1501595613673,
+      "title": [
+        "Magnolia 'Star Wars'",
+        "Magnolia \"Star Warms",
+        "Magnolia 'Star Wars'"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 5,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Department of Life Sciences, University of Trieste"
+      ],
+      "dcTitleLangAware": {
+        "def": [
+          "Magnolia 'Star Wars'"
+        ],
+        "en": [
+          "Magnolia \"Star Warms"
+        ],
+        "it": [
+          "Magnolia 'Star Wars'"
+        ]
+      },
+      "edmDatasetName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "edmIsShownAt": [
+        "http://dryades.units.it/dryades/viewer.php?image=TSB90034.jpg"
+      ],
+      "edmIsShownBy": [
+        "http://dryades.units.it/dryades/plants/foto/TSB90034.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "R\u00e9publique Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La R\u00e9publique italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Iod\u00e1il"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republica Italian\u0103"
+        },
+        {
+          "def": "Estat Itali\u00e0"
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Itali\u00eb"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "fi": [
+          "Italian tasavalta"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        ],
+        "sv": [
+          "Italia",
+          "Republiken Italien"
+        ],
+        "bg": [
+          "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        ],
+        "mt": [
+          "Repubblika Taljana"
+        ],
+        "en": [
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "hr": [
+          "Republika Italija"
+        ],
+        "it": [
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "fr": [
+          "R\u00e9publique Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La R\u00e9publique italienne",
+          "It.",
+          "Ital.",
+          "Ita."
+        ],
+        "es": [
+          "Rep\u00fablica Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Itaalia Vabariik"
+        ],
+        "sk": [
+          "Talianska republika"
+        ],
+        "ga": [
+          "Iod\u00e1il",
+          "Italia"
+        ],
+        "ro": [
+          "Republica Italian\u0103"
+        ],
+        "ca": [
+          "Estat Itali\u00e0",
+          "Rep\u00fablica Italiana"
+        ],
+        "nl": [
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Itali\u00eb",
+          "IT",
+          "ITA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lia"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "It\u0101lija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Olaszorsz\u00e1g"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iod\u00e1il"
+        },
+        {
+          "def": "It\u00e0lia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lie"
+        },
+        {
+          "def": "W\u0142ochy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Itali\u00eb"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "fi": [
+          "Italia"
+        ],
+        "pt": [
+          "It\u00e1lia"
+        ],
+        "bg": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "lv": [
+          "It\u0101lija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "fr": [
+          "Italie"
+        ],
+        "hu": [
+          "Olaszorsz\u00e1g"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iod\u00e1il"
+        ],
+        "ca": [
+          "It\u00e0lia"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "en": [
+          "Italy"
+        ],
+        "it": [
+          "Italia"
+        ],
+        "es": [
+          "Italia"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "cs": [
+          "It\u00e1lie"
+        ],
+        "pl": [
+          "W\u0142ochy"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "nl": [
+          "Itali\u00eb"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "42.5"
+      ],
+      "edmPlaceLongitude": [
+        "12.5"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdryades.units.it%2Fdryades%2Fplants%2Ffoto%2FTSB90034.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2011-04-09"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2011-04-09"
+        ]
+      },
+      "europeanaCollectionName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/11628/_FOTO_AM_UNITS_ITALY_80123?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/11628/_FOTO_AM_UNITS_ITALY_80123",
+      "index": 0,
+      "language": [
+        "it"
+      ],
+      "link": "https://api.europeana.eu/record/11628/_FOTO_AM_UNITS_ITALY_80123.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "OpenUp!"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-sa/3.0/"
+      ],
+      "score": 133.19325,
+      "timestamp": 1752042588338,
+      "timestamp_created": "2014-05-07T14:59:51.315Z",
+      "timestamp_created_epoch": 1399474791315,
+      "timestamp_update": "2017-08-01T13:53:25.297Z",
+      "timestamp_update_epoch": 1501595605297,
+      "title": [
+        "Magnolia 'Star Wars'",
+        "Magnolia \"Star Warms",
+        "Magnolia 'Star Wars'"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 5,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Department of Life Sciences, University of Trieste"
+      ],
+      "dcTitleLangAware": {
+        "def": [
+          "Magnolia 'Star Wars'"
+        ],
+        "en": [
+          "Magnolia \"Star Warms"
+        ],
+        "it": [
+          "Magnolia 'Star Wars'"
+        ]
+      },
+      "edmDatasetName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "edmIsShownAt": [
+        "http://dryades.units.it/dryades/viewer.php?image=TSB91495.jpg"
+      ],
+      "edmIsShownBy": [
+        "http://dryades.units.it/dryades/plants/foto/TSB91495.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "R\u00e9publique Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La R\u00e9publique italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Iod\u00e1il"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republica Italian\u0103"
+        },
+        {
+          "def": "Estat Itali\u00e0"
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Itali\u00eb"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "fi": [
+          "Italian tasavalta"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        ],
+        "sv": [
+          "Italia",
+          "Republiken Italien"
+        ],
+        "bg": [
+          "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        ],
+        "mt": [
+          "Repubblika Taljana"
+        ],
+        "en": [
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "hr": [
+          "Republika Italija"
+        ],
+        "it": [
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "fr": [
+          "R\u00e9publique Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La R\u00e9publique italienne",
+          "It.",
+          "Ital.",
+          "Ita."
+        ],
+        "es": [
+          "Rep\u00fablica Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Itaalia Vabariik"
+        ],
+        "sk": [
+          "Talianska republika"
+        ],
+        "ga": [
+          "Iod\u00e1il",
+          "Italia"
+        ],
+        "ro": [
+          "Republica Italian\u0103"
+        ],
+        "ca": [
+          "Estat Itali\u00e0",
+          "Rep\u00fablica Italiana"
+        ],
+        "nl": [
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Itali\u00eb",
+          "IT",
+          "ITA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lia"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "It\u0101lija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Olaszorsz\u00e1g"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iod\u00e1il"
+        },
+        {
+          "def": "It\u00e0lia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lie"
+        },
+        {
+          "def": "W\u0142ochy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Itali\u00eb"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "fi": [
+          "Italia"
+        ],
+        "pt": [
+          "It\u00e1lia"
+        ],
+        "bg": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "lv": [
+          "It\u0101lija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "fr": [
+          "Italie"
+        ],
+        "hu": [
+          "Olaszorsz\u00e1g"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iod\u00e1il"
+        ],
+        "ca": [
+          "It\u00e0lia"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "en": [
+          "Italy"
+        ],
+        "it": [
+          "Italia"
+        ],
+        "es": [
+          "Italia"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "cs": [
+          "It\u00e1lie"
+        ],
+        "pl": [
+          "W\u0142ochy"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "nl": [
+          "Itali\u00eb"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "42.5"
+      ],
+      "edmPlaceLongitude": [
+        "12.5"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdryades.units.it%2Fdryades%2Fplants%2Ffoto%2FTSB91495.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2011-04-09"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2011-04-09"
+        ]
+      },
+      "europeanaCollectionName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/11628/_FOTO_AM_UNITS_ITALY_81584?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/11628/_FOTO_AM_UNITS_ITALY_81584",
+      "index": 0,
+      "language": [
+        "it"
+      ],
+      "link": "https://api.europeana.eu/record/11628/_FOTO_AM_UNITS_ITALY_81584.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "OpenUp!"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-sa/3.0/"
+      ],
+      "score": 133.04434,
+      "timestamp": 1752042545299,
+      "timestamp_created": "2014-05-07T15:00:10.014Z",
+      "timestamp_created_epoch": 1399474810014,
+      "timestamp_update": "2017-08-01T13:53:39.982Z",
+      "timestamp_update_epoch": 1501595619982,
+      "title": [
+        "Magnolia \"Star Warms",
+        "Magnolia 'Star Wars'",
+        "Magnolia 'Star Wars'"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 5,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Department of Life Sciences, University of Trieste"
+      ],
+      "dcTitleLangAware": {
+        "def": [
+          "Magnolia 'Star Wars'"
+        ],
+        "en": [
+          "Magnolia \"Star Warms"
+        ],
+        "it": [
+          "Magnolia 'Star Wars'"
+        ]
+      },
+      "edmDatasetName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "edmIsShownAt": [
+        "http://dryades.units.it/dryades/viewer.php?image=TSB90856.jpg"
+      ],
+      "edmIsShownBy": [
+        "http://dryades.units.it/dryades/plants/foto/TSB90856.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "R\u00e9publique Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La R\u00e9publique italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Iod\u00e1il"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republica Italian\u0103"
+        },
+        {
+          "def": "Estat Itali\u00e0"
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Itali\u00eb"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "fi": [
+          "Italian tasavalta"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        ],
+        "sv": [
+          "Italia",
+          "Republiken Italien"
+        ],
+        "bg": [
+          "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        ],
+        "mt": [
+          "Repubblika Taljana"
+        ],
+        "en": [
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "hr": [
+          "Republika Italija"
+        ],
+        "it": [
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "fr": [
+          "R\u00e9publique Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La R\u00e9publique italienne",
+          "It.",
+          "Ital.",
+          "Ita."
+        ],
+        "es": [
+          "Rep\u00fablica Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Itaalia Vabariik"
+        ],
+        "sk": [
+          "Talianska republika"
+        ],
+        "ga": [
+          "Iod\u00e1il",
+          "Italia"
+        ],
+        "ro": [
+          "Republica Italian\u0103"
+        ],
+        "ca": [
+          "Estat Itali\u00e0",
+          "Rep\u00fablica Italiana"
+        ],
+        "nl": [
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Itali\u00eb",
+          "IT",
+          "ITA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lia"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "It\u0101lija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Olaszorsz\u00e1g"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iod\u00e1il"
+        },
+        {
+          "def": "It\u00e0lia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lie"
+        },
+        {
+          "def": "W\u0142ochy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Itali\u00eb"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "fi": [
+          "Italia"
+        ],
+        "pt": [
+          "It\u00e1lia"
+        ],
+        "bg": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "lv": [
+          "It\u0101lija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "fr": [
+          "Italie"
+        ],
+        "hu": [
+          "Olaszorsz\u00e1g"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iod\u00e1il"
+        ],
+        "ca": [
+          "It\u00e0lia"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "en": [
+          "Italy"
+        ],
+        "it": [
+          "Italia"
+        ],
+        "es": [
+          "Italia"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "cs": [
+          "It\u00e1lie"
+        ],
+        "pl": [
+          "W\u0142ochy"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "nl": [
+          "Itali\u00eb"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "42.5"
+      ],
+      "edmPlaceLongitude": [
+        "12.5"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdryades.units.it%2Fdryades%2Fplants%2Ffoto%2FTSB90856.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2011-04-09"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2011-04-09"
+        ]
+      },
+      "europeanaCollectionName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/11628/_FOTO_AM_UNITS_ITALY_80945?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/11628/_FOTO_AM_UNITS_ITALY_80945",
+      "index": 0,
+      "language": [
+        "it"
+      ],
+      "link": "https://api.europeana.eu/record/11628/_FOTO_AM_UNITS_ITALY_80945.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "OpenUp!"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-sa/3.0/"
+      ],
+      "score": 133.04434,
+      "timestamp": 1752042572970,
+      "timestamp_created": "2014-05-07T15:00:02.869Z",
+      "timestamp_created_epoch": 1399474802869,
+      "timestamp_update": "2017-08-01T13:53:33.677Z",
+      "timestamp_update_epoch": 1501595613677,
+      "title": [
+        "Magnolia \"Star Warms",
+        "Magnolia 'Star Wars'",
+        "Magnolia 'Star Wars'"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 5,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Department of Life Sciences, University of Trieste"
+      ],
+      "dcTitleLangAware": {
+        "def": [
+          "Magnolia 'Star Wars'"
+        ],
+        "en": [
+          "Magnolia \"Star Warms"
+        ],
+        "it": [
+          "Magnolia 'Star Wars'"
+        ]
+      },
+      "edmDatasetName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "edmIsShownAt": [
+        "http://dryades.units.it/dryades/viewer.php?image=TSB90857.jpg"
+      ],
+      "edmIsShownBy": [
+        "http://dryades.units.it/dryades/plants/foto/TSB90857.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "R\u00e9publique Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La R\u00e9publique italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Iod\u00e1il"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republica Italian\u0103"
+        },
+        {
+          "def": "Estat Itali\u00e0"
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Itali\u00eb"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "fi": [
+          "Italian tasavalta"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        ],
+        "sv": [
+          "Italia",
+          "Republiken Italien"
+        ],
+        "bg": [
+          "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        ],
+        "mt": [
+          "Repubblika Taljana"
+        ],
+        "en": [
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "hr": [
+          "Republika Italija"
+        ],
+        "it": [
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "fr": [
+          "R\u00e9publique Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La R\u00e9publique italienne",
+          "It.",
+          "Ital.",
+          "Ita."
+        ],
+        "es": [
+          "Rep\u00fablica Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Itaalia Vabariik"
+        ],
+        "sk": [
+          "Talianska republika"
+        ],
+        "ga": [
+          "Iod\u00e1il",
+          "Italia"
+        ],
+        "ro": [
+          "Republica Italian\u0103"
+        ],
+        "ca": [
+          "Estat Itali\u00e0",
+          "Rep\u00fablica Italiana"
+        ],
+        "nl": [
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Itali\u00eb",
+          "IT",
+          "ITA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lia"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "It\u0101lija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Olaszorsz\u00e1g"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iod\u00e1il"
+        },
+        {
+          "def": "It\u00e0lia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lie"
+        },
+        {
+          "def": "W\u0142ochy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Itali\u00eb"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "fi": [
+          "Italia"
+        ],
+        "pt": [
+          "It\u00e1lia"
+        ],
+        "bg": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "lv": [
+          "It\u0101lija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "fr": [
+          "Italie"
+        ],
+        "hu": [
+          "Olaszorsz\u00e1g"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iod\u00e1il"
+        ],
+        "ca": [
+          "It\u00e0lia"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "en": [
+          "Italy"
+        ],
+        "it": [
+          "Italia"
+        ],
+        "es": [
+          "Italia"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "cs": [
+          "It\u00e1lie"
+        ],
+        "pl": [
+          "W\u0142ochy"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "nl": [
+          "Itali\u00eb"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "42.5"
+      ],
+      "edmPlaceLongitude": [
+        "12.5"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdryades.units.it%2Fdryades%2Fplants%2Ffoto%2FTSB90857.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2011-04-09"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2011-04-09"
+        ]
+      },
+      "europeanaCollectionName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/11628/_FOTO_AM_UNITS_ITALY_80946?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/11628/_FOTO_AM_UNITS_ITALY_80946",
+      "index": 0,
+      "language": [
+        "it"
+      ],
+      "link": "https://api.europeana.eu/record/11628/_FOTO_AM_UNITS_ITALY_80946.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "OpenUp!"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-sa/3.0/"
+      ],
+      "score": 133.04434,
+      "timestamp": 1752042573161,
+      "timestamp_created": "2014-05-07T15:00:02.869Z",
+      "timestamp_created_epoch": 1399474802869,
+      "timestamp_update": "2017-08-01T13:53:33.671Z",
+      "timestamp_update_epoch": 1501595613671,
+      "title": [
+        "Magnolia \"Star Warms",
+        "Magnolia 'Star Wars'",
+        "Magnolia 'Star Wars'"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 5,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Department of Life Sciences, University of Trieste"
+      ],
+      "dcTitleLangAware": {
+        "def": [
+          "Magnolia 'Star Wars'"
+        ],
+        "en": [
+          "Magnolia \"Star Warms"
+        ],
+        "it": [
+          "Magnolia 'Star Wars'"
+        ]
+      },
+      "edmDatasetName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "edmIsShownAt": [
+        "http://dryades.units.it/dryades/viewer.php?image=TSB90033.jpg"
+      ],
+      "edmIsShownBy": [
+        "http://dryades.units.it/dryades/plants/foto/TSB90033.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "R\u00e9publique Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La R\u00e9publique italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Iod\u00e1il"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republica Italian\u0103"
+        },
+        {
+          "def": "Estat Itali\u00e0"
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Itali\u00eb"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "fi": [
+          "Italian tasavalta"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        ],
+        "sv": [
+          "Italia",
+          "Republiken Italien"
+        ],
+        "bg": [
+          "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        ],
+        "mt": [
+          "Repubblika Taljana"
+        ],
+        "en": [
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "hr": [
+          "Republika Italija"
+        ],
+        "it": [
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "fr": [
+          "R\u00e9publique Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La R\u00e9publique italienne",
+          "It.",
+          "Ital.",
+          "Ita."
+        ],
+        "es": [
+          "Rep\u00fablica Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Itaalia Vabariik"
+        ],
+        "sk": [
+          "Talianska republika"
+        ],
+        "ga": [
+          "Iod\u00e1il",
+          "Italia"
+        ],
+        "ro": [
+          "Republica Italian\u0103"
+        ],
+        "ca": [
+          "Estat Itali\u00e0",
+          "Rep\u00fablica Italiana"
+        ],
+        "nl": [
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Itali\u00eb",
+          "IT",
+          "ITA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lia"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "It\u0101lija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Olaszorsz\u00e1g"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iod\u00e1il"
+        },
+        {
+          "def": "It\u00e0lia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "It\u00e1lie"
+        },
+        {
+          "def": "W\u0142ochy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Itali\u00eb"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "fi": [
+          "Italia"
+        ],
+        "pt": [
+          "It\u00e1lia"
+        ],
+        "bg": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "lv": [
+          "It\u0101lija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "fr": [
+          "Italie"
+        ],
+        "hu": [
+          "Olaszorsz\u00e1g"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iod\u00e1il"
+        ],
+        "ca": [
+          "It\u00e0lia"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "en": [
+          "Italy"
+        ],
+        "it": [
+          "Italia"
+        ],
+        "es": [
+          "Italia"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "cs": [
+          "It\u00e1lie"
+        ],
+        "pl": [
+          "W\u0142ochy"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "nl": [
+          "Itali\u00eb"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "42.5"
+      ],
+      "edmPlaceLongitude": [
+        "12.5"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdryades.units.it%2Fdryades%2Fplants%2Ffoto%2FTSB90033.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2011-04-09"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2011-04-09"
+        ]
+      },
+      "europeanaCollectionName": [
+        "11628_Ag_EU_OpenUp!_FOTO_AM"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/11628/_FOTO_AM_UNITS_ITALY_80122?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/11628/_FOTO_AM_UNITS_ITALY_80122",
+      "index": 0,
+      "language": [
+        "it"
+      ],
+      "link": "https://api.europeana.eu/record/11628/_FOTO_AM_UNITS_ITALY_80122.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "OpenUp!"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-sa/3.0/"
+      ],
+      "score": 133.04434,
+      "timestamp": 1752042588274,
+      "timestamp_created": "2014-05-07T14:59:51.307Z",
+      "timestamp_created_epoch": 1399474791307,
+      "timestamp_update": "2017-08-01T13:53:25.295Z",
+      "timestamp_update_epoch": 1501595605295,
+      "title": [
+        "Magnolia 'Star Wars'",
+        "Magnolia \"Star Warms",
+        "Magnolia 'Star Wars'"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  ],
+  "europeana_character_search": [
+    {
+      "completeness": 0,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "Museum of European Cultures, Staatliche Museen zu Berlin"
+      ],
+      "dcTitleLangAware": {
+        "de": [
+          "Luke Skywalker"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1796"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Kunststoff"
+        },
+        {
+          "def": "Muovi"
+        },
+        {
+          "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+        },
+        {
+          "def": "Pl\u00e1stico"
+        },
+        {
+          "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+        },
+        {
+          "def": "Plastikas"
+        },
+        {
+          "def": "Plastika"
+        },
+        {
+          "def": "Plastmasas"
+        },
+        {
+          "def": "Mati\u00e8re plastique"
+        },
+        {
+          "def": "M\u0171anyag"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Plastika"
+        },
+        {
+          "def": "Plaisteach"
+        },
+        {
+          "def": "Pl\u00e0stic"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+        },
+        {
+          "def": "Plastic"
+        },
+        {
+          "def": "Materie plastiche"
+        },
+        {
+          "def": "Pl\u00e1stico"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Plastiko"
+        },
+        {
+          "def": "Tworzywo sztuczne"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Mas\u0103 plastic\u0103"
+        },
+        {
+          "def": "Kunststof"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Kunststoff"
+        ],
+        "fi": [
+          "Muovi"
+        ],
+        "ru": [
+          "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+        ],
+        "pt": [
+          "Pl\u00e1stico"
+        ],
+        "bg": [
+          "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+        ],
+        "lt": [
+          "Plastikas"
+        ],
+        "hr": [
+          "Plastika"
+        ],
+        "lv": [
+          "Plastmasas"
+        ],
+        "fr": [
+          "Mati\u00e8re plastique"
+        ],
+        "hu": [
+          "M\u0171anyag"
+        ],
+        "sk": [
+          "Plast"
+        ],
+        "sl": [
+          "Plastika"
+        ],
+        "ga": [
+          "Plaisteach"
+        ],
+        "ca": [
+          "Pl\u00e0stic"
+        ],
+        "sv": [
+          "Plast"
+        ],
+        "el": [
+          "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+        ],
+        "en": [
+          "Plastic"
+        ],
+        "it": [
+          "Materie plastiche"
+        ],
+        "es": [
+          "Pl\u00e1stico"
+        ],
+        "et": [
+          "Plast"
+        ],
+        "cs": [
+          "Plast"
+        ],
+        "eu": [
+          "Plastiko"
+        ],
+        "pl": [
+          "Tworzywo sztuczne"
+        ],
+        "da": [
+          "Plast"
+        ],
+        "ro": [
+          "Mas\u0103 plastic\u0103"
+        ],
+        "nl": [
+          "Kunststof"
+        ]
+      },
+      "edmDatasetName": [
+        "2064108_SMB"
+      ],
+      "edmIsShownAt": [
+        "http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1399464"
+      ],
+      "edmIsShownBy": [
+        "http://www.smb-digital.de/eMuseumPlus?service=ImageAsset&module=collection&objectId=1399464&resolution=superImageResolution#2591470"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.smb-digital.de%2FeMuseumPlus%3Fservice%3DImageAsset%26module%3Dcollection%26objectId%3D1399464%26resolution%3DsuperImageResolution%232591470&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2007"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2007"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2064108_SMB"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "MUSEU"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      ],
+      "score": 199.43755,
+      "timestamp": 1752027008584,
+      "timestamp_created": "2020-08-24T09:45:34.253Z",
+      "timestamp_created_epoch": 1598262334253,
+      "timestamp_update": "2020-08-24T09:45:34.253Z",
+      "timestamp_update_epoch": 1598262334253,
+      "title": [
+        "Luke Skywalker"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2007"
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Nordic Museum Foundation"
+      ],
+      "dcDescription": [
+        "DockaLuke skywalkerInventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010."
+      ],
+      "dcDescriptionLangAware": {
+        "sw": [
+          "DockaLuke skywalkerInventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010."
+        ]
+      },
+      "dcTitleLangAware": {
+        "sw": [
+          "Docka:Luke Skywalker"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10617",
+        "http://data.europeana.eu/concept/2312",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10401"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Puppenkleidung"
+        },
+        {
+          "def": "Puppenkleidung"
+        },
+        {
+          "def": "Schwarz"
+        },
+        {
+          "def": "dockkl\u00e4der"
+        },
+        {
+          "def": "Dockkl\u00e4der"
+        },
+        {
+          "def": "svart"
+        },
+        {
+          "def": "roupa de boneca"
+        },
+        {
+          "def": "Roupa de boneca"
+        },
+        {
+          "def": "preto"
+        },
+        {
+          "def": "\u03b5\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2"
+        },
+        {
+          "def": "\u0395\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2"
+        },
+        {
+          "def": "\u03bc\u03b1\u03cd\u03c1\u03bf"
+        },
+        {
+          "def": "doll's clothing"
+        },
+        {
+          "def": "Doll clothes"
+        },
+        {
+          "def": "black"
+        },
+        {
+          "def": "vestitini da bambola"
+        },
+        {
+          "def": "Vestitini da bambola"
+        },
+        {
+          "def": "nero"
+        },
+        {
+          "def": "v\u00eatements de poup\u00e9e"
+        },
+        {
+          "def": "V\u00eatements de poup\u00e9e"
+        },
+        {
+          "def": "noir"
+        },
+        {
+          "def": "\u05d1\u05d2\u05d3\u05d9 \u05d1\u05d5\u05d1\u05d5\u05ea"
+        },
+        {
+          "def": "\u05e9\u05d7\u05d5\u05e8"
+        },
+        {
+          "def": "poppenkleding"
+        },
+        {
+          "def": "Poppenkleding"
+        },
+        {
+          "def": "zwart"
+        },
+        {
+          "def": "ropa de mu\u00f1eca"
+        },
+        {
+          "def": "Ropa de mu\u00f1eca"
+        },
+        {
+          "def": "negro"
+        },
+        {
+          "def": "ode\u0107a za lutke"
+        },
+        {
+          "def": "\u0446\u0440\u043d\u0430"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Puppenkleidung",
+          "Schwarz"
+        ],
+        "sv": [
+          "svart",
+          "dockkl\u00e4der",
+          "Dockkl\u00e4der"
+        ],
+        "pt": [
+          "preto",
+          "Roupa de boneca",
+          "roupa de boneca"
+        ],
+        "el": [
+          "\u0395\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2",
+          "\u03b5\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2",
+          "\u03bc\u03b1\u03cd\u03c1\u03bf"
+        ],
+        "en": [
+          "Doll clothes",
+          "black",
+          "doll's clothing"
+        ],
+        "it": [
+          "vestitini da bambola",
+          "nero",
+          "Vestitini da bambola"
+        ],
+        "fr": [
+          "v\u00eatements de poup\u00e9e",
+          "noir",
+          "V\u00eatements de poup\u00e9e"
+        ],
+        "he": [
+          "\u05e9\u05d7\u05d5\u05e8",
+          "\u05d1\u05d2\u05d3\u05d9 \u05d1\u05d5\u05d1\u05d5\u05ea"
+        ],
+        "nl": [
+          "poppenkleding",
+          "Poppenkleding",
+          "zwart"
+        ],
+        "es": [
+          "negro",
+          "Ropa de mu\u00f1eca",
+          "ropa de mu\u00f1eca"
+        ],
+        "sr": [
+          "ode\u0107a za lutke",
+          "\u0446\u0440\u043d\u0430"
+        ]
+      },
+      "edmDatasetName": [
+        "2048211_EuropeanaFashion_1019"
+      ],
+      "edmIsShownAt": [
+        "http://digitaltmuseum.se/things/thing/S-NM/NM.0312865?size=800"
+      ],
+      "edmIsShownBy": [
+        "http://media35a.dimu.no/media/decoimage/S-NM/NM.0312865/15335?size=800"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia35a.dimu.no%2Fmedia%2Fdecoimage%2FS-NM%2FNM.0312865%2F15335%3Fsize%3D800&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1980/1980"
+        },
+        {
+          "def": "1980"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1980/1980",
+          "1980"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048211_EuropeanaFashion_1019"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048211/europeana_fashion_NM_0312865?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2048211/europeana_fashion_NM_0312865",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048211/europeana_fashion_NM_0312865.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ],
+      "score": 192.70926,
+      "timestamp": 1752053090333,
+      "timestamp_created": "2018-11-29T09:25:08.850Z",
+      "timestamp_created_epoch": 1543483508850,
+      "timestamp_update": "2022-01-25T11:27:24.515Z",
+      "timestamp_update_epoch": 1643110044515,
+      "title": [
+        "Docka:Luke Skywalker"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1980"
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Uppsala University"
+      ],
+      "dcCreator": [
+        "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen",
+        "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen"
+      ],
+      "dcCreatorLangAware": {
+        "sv": [
+          "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen"
+        ],
+        "def": [
+          "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen"
+        ]
+      },
+      "dcDescription": [
+        "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+        "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008.",
+        "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+        "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008."
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+          "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008."
+        ],
+        "en": [
+          "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+          "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008."
+        ]
+      },
+      "dcLanguage": [
+        "en"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "en"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Individualism in Theory Or the Virtues of Harry Potter, Luke Skywalker, Lisa Simpson and Pippi Longstocking"
+        ]
+      },
+      "edmDatasetName": [
+        "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+      ],
+      "edmIsShownAt": [
+        "http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-26692"
+      ],
+      "edmIsShownBy": [
+        "http://uu.diva-portal.org/smash/get/diva2:54562/FULLTEXT01"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fuu.diva-portal.org%2Fsmash%2Fget%2Fdiva2%3A54562%2FFULLTEXT01&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "Second millenium AD"
+        },
+        {
+          "def": "Second millenium AD, years 1001-2000"
+        },
+        {
+          "def": "Time"
+        },
+        {
+          "def": "Chronological period"
+        },
+        {
+          "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+        },
+        {
+          "def": "2008-10-20"
+        },
+        {
+          "def": "2008"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "en": [
+          "Second millenium AD",
+          "Second millenium AD, years 1001-2000",
+          "Time",
+          "Chronological period"
+        ],
+        "zxx": [
+          "2008-10-20",
+          "2008"
+        ],
+        "fr": [
+          "2e mill\u00e9naire apr\u00e8s J.-C."
+        ]
+      },
+      "europeanaCollectionName": [
+        "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/9200111/BibliographicResource_1000085972499?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/9200111/BibliographicResource_1000085972499",
+      "index": 0,
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/9200111/BibliographicResource_1000085972499.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "The European Library"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 111.74672,
+      "timestamp": 1752048094775,
+      "timestamp_created": "2014-09-07T10:47:14.819Z",
+      "timestamp_created_epoch": 1410086834819,
+      "timestamp_update": "2014-09-07T10:47:14.819Z",
+      "timestamp_update_epoch": 1410086834819,
+      "title": [
+        "Individualism in Theory Or the Virtues of Harry Potter, Luke Skywalker, Lisa Simpson and Pippi Longstocking"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2008"
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "TV3 Catalan Television"
+      ],
+      "dcDescription": [
+        "A group of NASA scientists, the US space agency, have discovered a planet with two suns, such as Luke Skywalker, the protagonist of the film saga \u2018The Star Wars.\u2019 Not called Tatooine, but Kepler 16B."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "A group of NASA scientists, the US space agency, have discovered a planet with two suns, such as Luke Skywalker, the protagonist of the film saga \u2018The Star Wars.\u2019 Not called Tatooine, but Kepler 16B."
+        ]
+      },
+      "dcLanguage": [
+        "Catalan;\u00a0Valencian"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "Catalan;\u00a0Valencian"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Info K"
+        ],
+        "en": [
+          "Info K: Planet with two suns"
+        ]
+      },
+      "edmDatasetName": [
+        "2051922_TV3_Television_of_Catalonia"
+      ],
+      "edmIsShownAt": [
+        "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3697370/"
+      ],
+      "edmIsShownBy": [
+        "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3697370/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F5%2F8%2F1316542009585.jpg&type=VIDEO"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2011-09-20"
+        },
+        {
+          "def": "2011"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2011-09-20",
+          "2011"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2051922_TV3_Television_of_Catalonia"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_3697370?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2051922/data_euscreenXL_3697370",
+      "index": 0,
+      "language": [
+        "ca"
+      ],
+      "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_3697370.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "EUscreen"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 36.18993,
+      "timestamp": 1752046174992,
+      "timestamp_created": "2015-12-11T08:23:03.437Z",
+      "timestamp_created_epoch": 1449822183437,
+      "timestamp_update": "2021-12-03T08:36:11.538Z",
+      "timestamp_update_epoch": 1638520571538,
+      "title": [
+        "Info K",
+        "Info K: Planet with two suns"
+      ],
+      "type": "VIDEO",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2011"
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "United Kingdom"
+      ],
+      "dataProvider": [
+        "Jersey Heritage"
+      ],
+      "dcCreator": [
+        "Kenner"
+      ],
+      "dcCreatorLangAware": {
+        "en": [
+          "Kenner"
+        ]
+      },
+      "dcDescription": [
+        "5 moulded plastic figues from Star Wars, Return of the Jedi, the figures are Luke Skywalker, Chielf Chirpa (Ewok) Nanda Calrissian and Yoda"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "5 moulded plastic figues from Star Wars, Return of the Jedi, the figures are Luke Skywalker, Chielf Chirpa (Ewok) Nanda Calrissian and Yoda"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Star Wars filrm Memorabilia Action figures"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1796"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Kunststoff"
+        },
+        {
+          "def": "Muovi"
+        },
+        {
+          "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+        },
+        {
+          "def": "Pl\u00e1stico"
+        },
+        {
+          "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+        },
+        {
+          "def": "Plastikas"
+        },
+        {
+          "def": "Plastika"
+        },
+        {
+          "def": "Plastmasas"
+        },
+        {
+          "def": "Mati\u00e8re plastique"
+        },
+        {
+          "def": "M\u0171anyag"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Plastika"
+        },
+        {
+          "def": "Plaisteach"
+        },
+        {
+          "def": "Pl\u00e0stic"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+        },
+        {
+          "def": "Plastic"
+        },
+        {
+          "def": "Materie plastiche"
+        },
+        {
+          "def": "Pl\u00e1stico"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Plastiko"
+        },
+        {
+          "def": "Tworzywo sztuczne"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Mas\u0103 plastic\u0103"
+        },
+        {
+          "def": "Kunststof"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Kunststoff"
+        ],
+        "fi": [
+          "Muovi"
+        ],
+        "ru": [
+          "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+        ],
+        "pt": [
+          "Pl\u00e1stico"
+        ],
+        "bg": [
+          "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+        ],
+        "lt": [
+          "Plastikas"
+        ],
+        "hr": [
+          "Plastika"
+        ],
+        "lv": [
+          "Plastmasas"
+        ],
+        "fr": [
+          "Mati\u00e8re plastique"
+        ],
+        "hu": [
+          "M\u0171anyag"
+        ],
+        "sk": [
+          "Plast"
+        ],
+        "sl": [
+          "Plastika"
+        ],
+        "ga": [
+          "Plaisteach"
+        ],
+        "ca": [
+          "Pl\u00e0stic"
+        ],
+        "sv": [
+          "Plast"
+        ],
+        "el": [
+          "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+        ],
+        "en": [
+          "Plastic"
+        ],
+        "it": [
+          "Materie plastiche"
+        ],
+        "es": [
+          "Pl\u00e1stico"
+        ],
+        "et": [
+          "Plast"
+        ],
+        "cs": [
+          "Plast"
+        ],
+        "eu": [
+          "Plastiko"
+        ],
+        "pl": [
+          "Tworzywo sztuczne"
+        ],
+        "da": [
+          "Plast"
+        ],
+        "ro": [
+          "Mas\u0103 plastic\u0103"
+        ],
+        "nl": [
+          "Kunststof"
+        ]
+      },
+      "edmDatasetName": [
+        "2048087_Ag_EU_AthenaPlus_CollectionsTrust"
+      ],
+      "edmIsShownAt": [
+        "http://catalogue.jerseyheritage.org/collection/Details/collect/60106"
+      ],
+      "edmIsShownBy": [
+        "http://catalogue.jerseyheritage.org/wp-content/plugins/adlib-interface/adlib-image.php?p=60106&d=collect&i=1"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcatalogue.jerseyheritage.org%2Fwp-content%2Fplugins%2Fadlib-interface%2Fadlib-image.php%3Fp%3D60106%26d%3Dcollect&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "Second millenium AD"
+        },
+        {
+          "def": "Second millenium AD, years 1001-2000"
+        },
+        {
+          "def": "Time"
+        },
+        {
+          "def": "Chronological period"
+        },
+        {
+          "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+        },
+        {
+          "def": "1983"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "en": [
+          "Second millenium AD",
+          "Second millenium AD, years 1001-2000",
+          "Time",
+          "Chronological period"
+        ],
+        "zxx": [
+          "1983"
+        ],
+        "fr": [
+          "2e mill\u00e9naire apr\u00e8s J.-C."
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048087_Ag_EU_AthenaPlus_CollectionsTrust"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2048087/ProvidedCHO_Jersey_Heritage_JHTO_0010_00009_004?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2048087/ProvidedCHO_Jersey_Heritage_JHTO_0010_00009_004",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/2048087/ProvidedCHO_Jersey_Heritage_JHTO_0010_00009_004.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "AthenaPlus"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 35.9562,
+      "timestamp": 1751968233422,
+      "timestamp_created": "2015-01-27T14:58:19.893Z",
+      "timestamp_created_epoch": 1422370699893,
+      "timestamp_update": "2016-07-12T18:02:58.261Z",
+      "timestamp_update_epoch": 1468346578261,
+      "title": [
+        "Star Wars filrm Memorabilia Action figures"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1983"
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "TV3 Catalan Television"
+      ],
+      "dcDescription": [
+        "Harrison Ford, Carrie Fisher and Mark Hamill will again be Han Solo, Princess Leia and Luke Skywalker thirty years later. The protagonists of the initial trilogy of\\ \u2018Star Wars\\\u2019 will participate in the seventh episode of \u2018Star Wars\\\u2019 which will led J. J. Abrams."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Harrison Ford, Carrie Fisher and Mark Hamill will again be Han Solo, Princess Leia and Luke Skywalker thirty years later. The protagonists of the initial trilogy of\\ \u2018Star Wars\\\u2019 will participate in the seventh episode of \u2018Star Wars\\\u2019 which will led J. J. Abrams."
+        ]
+      },
+      "dcLanguage": [
+        "Catalan;\u00a0Valencian"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "Catalan;\u00a0Valencian"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Not\u00edcies 3/24"
+        ],
+        "en": [
+          "\\ \u2018Star Wars\u2019 repeats actors"
+        ]
+      },
+      "edmDatasetName": [
+        "2051922_TV3_Television_of_Catalonia"
+      ],
+      "edmIsShownAt": [
+        "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5052111/"
+      ],
+      "edmIsShownBy": [
+        "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5052111/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F1%2F3%2F1398839947031.jpg&type=VIDEO"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2014"
+        },
+        {
+          "def": "2014-04-30"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2014",
+          "2014-04-30"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2051922_TV3_Television_of_Catalonia"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_5052111?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2051922/data_euscreenXL_5052111",
+      "index": 0,
+      "language": [
+        "ca"
+      ],
+      "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_5052111.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "EUscreen"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 34.454884,
+      "timestamp": 1752046309454,
+      "timestamp_created": "2015-12-11T08:33:53.835Z",
+      "timestamp_created_epoch": 1449822833835,
+      "timestamp_update": "2021-12-03T08:36:11.538Z",
+      "timestamp_update_epoch": 1638520571538,
+      "title": [
+        "\\ \u2018Star Wars\u2019 repeats actors",
+        "Not\u00edcies 3/24"
+      ],
+      "type": "VIDEO",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2014"
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "TV3 Catalan Television"
+      ],
+      "dcDescription": [
+        "The series continues\\ \u2018The comeback of galaxies\\\u2019 In this second chapter we know the rebel forces, with Pep Guardiola (Pep Plaza) in the role of Obi-Wan Kenobi, Andres Iniesta (Oriol Cruz) as Luke Skywalker and Carles Puyol (Jordi Rios) playing Princess Leia. Y las pifias"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "The series continues\\ \u2018The comeback of galaxies\\\u2019 In this second chapter we know the rebel forces, with Pep Guardiola (Pep Plaza) in the role of Obi-Wan Kenobi, Andres Iniesta (Oriol Cruz) as Luke Skywalker and Carles Puyol (Jordi Rios) playing Princess Leia. Y las pifias"
+        ]
+      },
+      "dcLanguage": [
+        "Catalan;\u00a0Valencian"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "Catalan;\u00a0Valencian"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Crack\u00f2via"
+        ],
+        "en": [
+          "Crack\u00f2via: The comeback of galaxies - Cap. 2"
+        ]
+      },
+      "edmDatasetName": [
+        "2051922_TV3_Television_of_Catalonia"
+      ],
+      "edmIsShownAt": [
+        "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4038410/"
+      ],
+      "edmIsShownBy": [
+        "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4038410/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F0%2F7%2F1334053633070.jpg&type=VIDEO"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2012"
+        },
+        {
+          "def": "2012-04-09"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2012",
+          "2012-04-09"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2051922_TV3_Television_of_Catalonia"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_4038410?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2051922/data_euscreenXL_4038410",
+      "index": 0,
+      "language": [
+        "ca"
+      ],
+      "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_4038410.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "EUscreen"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 33.858482,
+      "timestamp": 1752046167337,
+      "timestamp_created": "2015-12-11T08:24:31.792Z",
+      "timestamp_created_epoch": 1449822271792,
+      "timestamp_update": "2021-12-03T08:36:11.538Z",
+      "timestamp_update_epoch": 1638520571538,
+      "title": [
+        "Crack\u00f2via",
+        "Crack\u00f2via: The comeback of galaxies - Cap. 2"
+      ],
+      "type": "VIDEO",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2012"
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "TV3 Catalan Television"
+      ],
+      "dcDescription": [
+        "\\ \u2018Crack\u00f2via\\\u2019 opens a new character: Queca, the cuddly sheep of Carles Puyol (Jordi Rios), who can speak and has no hair on his tongue to say what he thinks. Continue\\ \u2018The comeback of galaxies\\\u2019 In this second chapter, the rebel forces are known, with Pep Guardiola (Pep Plaza) in the role of Obi-wan Kenobi, Andres Iniesta (Oriol Cruz) as Luke Skywalker and Carles Puyol (Jordi Rios) playing Princess Leia. Barca players combine to get the back to the league with a spectacular musical based on the mythical theme\\ \u2018The eye of the tiger\\\u2019. Mourinho (Toni Alb\u00e0) decides to take advantage of Holy Week to continue making himself the martyr in the press room."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "\\ \u2018Crack\u00f2via\\\u2019 opens a new character: Queca, the cuddly sheep of Carles Puyol (Jordi Rios), who can speak and has no hair on his tongue to say what he thinks. Continue\\ \u2018The comeback of galaxies\\\u2019 In this second chapter, the rebel forces are known, with Pep Guardiola (Pep Plaza) in the role of Obi-wan Kenobi, Andres Iniesta (Oriol Cruz) as Luke Skywalker and Carles Puyol (Jordi Rios) playing Princess Leia. Barca players combine to get the back to the league with a spectacular musical based on the mythical theme\\ \u2018The eye of the tiger\\\u2019. Mourinho (Toni Alb\u00e0) decides to take advantage of Holy Week to continue making himself the martyr in the press room."
+        ]
+      },
+      "dcLanguage": [
+        "Catalan;\u00a0Valencian"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "Catalan;\u00a0Valencian"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Crack\u00f2via"
+        ],
+        "en": [
+          "Crack\u00f2via 09/04/2012"
+        ]
+      },
+      "edmDatasetName": [
+        "2051922_TV3_Television_of_Catalonia"
+      ],
+      "edmIsShownAt": [
+        "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4037770/"
+      ],
+      "edmIsShownBy": [
+        "http://www.ccma.cat/tv3/alacarta/programa/titol/video/4037770/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F8%2F9%2F1334008052598.jpg&type=VIDEO"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2012"
+        },
+        {
+          "def": "2012-04-09"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2012",
+          "2012-04-09"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2051922_TV3_Television_of_Catalonia"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_4037770?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/2051922/data_euscreenXL_4037770",
+      "index": 0,
+      "language": [
+        "ca"
+      ],
+      "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_4037770.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "EUscreen"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 29.586706,
+      "timestamp": 1752046165666,
+      "timestamp_created": "2015-12-11T08:24:31.538Z",
+      "timestamp_created_epoch": 1449822271538,
+      "timestamp_update": "2021-12-03T08:36:11.538Z",
+      "timestamp_update_epoch": 1638520571538,
+      "title": [
+        "Crack\u00f2via",
+        "Crack\u00f2via 09/04/2012"
+      ],
+      "type": "VIDEO",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2012"
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Nordic Museum Foundation"
+      ],
+      "dcCreator": [
+        "Lucas, Film"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Lucas, Film"
+        ]
+      },
+      "dcDescription": [
+        "Historisk h\u00e4ndelse, namn med anknytning till f\u00f6rem\u00e5let: Stj\u00e4rnornas Krig",
+        "Inf\u00f6r \u00f6ppnandet av utst\u00e4llningen Tidsvalvet fick Nordiska museet en kort ber\u00e4ttelse fr\u00e5n den tidigare \u00e4garen om hur han under sin barndom p\u00e5 1980-talet lekte med figurerna till Stj\u00e4rnornas krig (Star Wars). S\u00e5 h\u00e4r ber\u00e4ttar han h\u00f6sten 2019:\n\nJag var i tio\u00e5rs\u00e5ldern n\u00e4r filmerna och figurerna var som popul\u00e4rast. Jag och mina v\u00e4nner lekte mycket Stj\u00e4rnornas krig (p\u00e5 1980-talet \u00f6versattes ofta engelska titlar till svenska). Vi turades om att vara Luke Skywalker, Han solo och Darth Vader. Men mest lekte vi med v\u00e5ra figurer, eller Stj\u00e4rnornas krig-gubbar som vi kallade dem.\nEn av mina kompisars storasyster hade ett gammalt dockhus som hon slutat leka med. Det tog vi \u00f6ver och st\u00e4llde figurerna i rummen. Sedan lekte vi scener fr\u00e5n filmerna eller hade strider mellan rebellerna och det onda imperiet.\nScenen d\u00e4r Han solo blir infryst i ett block is tyckte vi var lite ot\u00e4ck. Men den gav oss ocks\u00e5 id\u00e9n hur vi kunde \u00e5terskapa den sj\u00e4lva. En liten plastl\u00e5da fylldes med vatten, i med Han Solo-figuren och s\u00e5 n\u00e5gra timmar i frysen.\nVi var ofta ute och lekte med figurerna. Sandl\u00e5dor, bergh\u00e4llar och skogar var bra platser. Figurerna var t\u00e5liga och klarade exempelvis fall fr\u00e5n h\u00f6jder. Alla d\u00e5 utom R2-D2 som var t\u00e4ckt med pappersklisterm\u00e4rken. Pappret klarade varken fukt eller smuts s\u00e5 han fick sedan h\u00e5lla sig hemma n\u00e4r de andra gick ut p\u00e5 \u00e4ventyr. \nEfter ett tag hade jag r\u00e4tt m\u00e5nga figurer, fordon och andra tillbeh\u00f6r. Jag t\u00e4nkte d\u00e5 att om jag st\u00e4llde fram allting s\u00e5 skulle pappa kunna ta ett fotografi och resultatet skulle bli lika h\u00e4ftigt som filmaffischerna! V\u00e4ntan p\u00e5 framkallning blev l\u00e5ng men till slut s\u00e5 var fotografierna klara. Jag bl\u00e4ddrade snabbt genom h\u00f6gen tills jag hittade bilden som s\u00e5klart inte s\u00e5g ut som ett professionellt studiofoto. Pappa hade zoomat ut l\u00e5ngt f\u00f6r att f\u00e5 plats med alla mina figurer s\u00e5 det syntes knappt n\u00e5gra detaljer. Ljuset var heller inte tillr\u00e4ckligt s\u00e5 han beh\u00f6vde anv\u00e4nda blixt och det blev en reflektion av den i bakgrunden. Jag minns fortfarande hur besviken jag blev \u00f6ver att fotografiet inte s\u00e5g ut som den bild jag m\u00e5lat upp i min fantasi.\nSedan kom Nordiska Museet och k\u00f6pte upp v\u00e5rt hem. Jag kommer inte ih\u00e5g ifall jag hunnit v\u00e4xa ifr\u00e5n Star Wars (om\u00f6jligt!) men minns inte heller att saknaden \u00f6ver figurerna skulle vara s\u00e4rskilt stor.\n/Karin Dern 2020-12-22",
+        "Inventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK:s hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010."
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Historisk h\u00e4ndelse, namn med anknytning till f\u00f6rem\u00e5let: Stj\u00e4rnornas Krig",
+          "Inf\u00f6r \u00f6ppnandet av utst\u00e4llningen Tidsvalvet fick Nordiska museet en kort ber\u00e4ttelse fr\u00e5n den tidigare \u00e4garen om hur han under sin barndom p\u00e5 1980-talet lekte med figurerna till Stj\u00e4rnornas krig (Star Wars). S\u00e5 h\u00e4r ber\u00e4ttar han h\u00f6sten 2019:\n\nJag var i tio\u00e5rs\u00e5ldern n\u00e4r filmerna och figurerna var som popul\u00e4rast. Jag och mina v\u00e4nner lekte mycket Stj\u00e4rnornas krig (p\u00e5 1980-talet \u00f6versattes ofta engelska titlar till svenska). Vi turades om att vara Luke Skywalker, Han solo och Darth Vader. Men mest lekte vi med v\u00e5ra figurer, eller Stj\u00e4rnornas krig-gubbar som vi kallade dem.\nEn av mina kompisars storasyster hade ett gammalt dockhus som hon slutat leka med. Det tog vi \u00f6ver och st\u00e4llde figurerna i rummen. Sedan lekte vi scener fr\u00e5n filmerna eller hade strider mellan rebellerna och det onda imperiet.\nScenen d\u00e4r Han solo blir infryst i ett block is tyckte vi var lite ot\u00e4ck. Men den gav oss ocks\u00e5 id\u00e9n hur vi kunde \u00e5terskapa den sj\u00e4lva. En liten plastl\u00e5da fylldes med vatten, i med Han Solo-figuren och s\u00e5 n\u00e5gra timmar i frysen.\nVi var ofta ute och lekte med figurerna. Sandl\u00e5dor, bergh\u00e4llar och skogar var bra platser. Figurerna var t\u00e5liga och klarade exempelvis fall fr\u00e5n h\u00f6jder. Alla d\u00e5 utom R2-D2 som var t\u00e4ckt med pappersklisterm\u00e4rken. Pappret klarade varken fukt eller smuts s\u00e5 han fick sedan h\u00e5lla sig hemma n\u00e4r de andra gick ut p\u00e5 \u00e4ventyr. \nEfter ett tag hade jag r\u00e4tt m\u00e5nga figurer, fordon och andra tillbeh\u00f6r. Jag t\u00e4nkte d\u00e5 att om jag st\u00e4llde fram allting s\u00e5 skulle pappa kunna ta ett fotografi och resultatet skulle bli lika h\u00e4ftigt som filmaffischerna! V\u00e4ntan p\u00e5 framkallning blev l\u00e5ng men till slut s\u00e5 var fotografierna klara. Jag bl\u00e4ddrade snabbt genom h\u00f6gen tills jag hittade bilden som s\u00e5klart inte s\u00e5g ut som ett professionellt studiofoto. Pappa hade zoomat ut l\u00e5ngt f\u00f6r att f\u00e5 plats med alla mina figurer s\u00e5 det syntes knappt n\u00e5gra detaljer. Ljuset var heller inte tillr\u00e4ckligt s\u00e5 han beh\u00f6vde anv\u00e4nda blixt och det blev en reflektion av den i bakgrunden. Jag minns fortfarande hur besviken jag blev \u00f6ver att fotografiet inte s\u00e5g ut som den bild jag m\u00e5lat upp i min fantasi.\nSedan kom Nordiska Museet och k\u00f6pte upp v\u00e5rt hem. Jag kommer inte ih\u00e5g ifall jag hunnit v\u00e4xa ifr\u00e5n Star Wars (om\u00f6jligt!) men minns inte heller att saknaden \u00f6ver figurerna skulle vara s\u00e4rskilt stor.\n/Karin Dern 2020-12-22",
+          "Inventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK:s hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010."
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Docka"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2311"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Puppe"
+        },
+        {
+          "def": "\u041a\u0443\u043a\u043b\u0430"
+        },
+        {
+          "def": "Nukke"
+        },
+        {
+          "def": "Boneca"
+        },
+        {
+          "def": "\u041a\u0443\u043a\u043b\u0430"
+        },
+        {
+          "def": "L\u0117l\u0117"
+        },
+        {
+          "def": "Lelle"
+        },
+        {
+          "def": "Lutka"
+        },
+        {
+          "def": "Poup\u00e9e"
+        },
+        {
+          "def": "J\u00e1t\u00e9k baba"
+        },
+        {
+          "def": "Lutka"
+        },
+        {
+          "def": "B\u00e1b\u00f3g"
+        },
+        {
+          "def": "Ninot"
+        },
+        {
+          "def": "Docka"
+        },
+        {
+          "def": "\u039a\u03bf\u03cd\u03ba\u03bb\u03b1"
+        },
+        {
+          "def": "Doll"
+        },
+        {
+          "def": "Bambola"
+        },
+        {
+          "def": "Mu\u00f1eca"
+        },
+        {
+          "def": "Nukk"
+        },
+        {
+          "def": "Panpina"
+        },
+        {
+          "def": "Panenka"
+        },
+        {
+          "def": "Lalka"
+        },
+        {
+          "def": "Dukke"
+        },
+        {
+          "def": "P\u0103pu\u0219\u0103"
+        },
+        {
+          "def": "Pop"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Puppe"
+        ],
+        "ru": [
+          "\u041a\u0443\u043a\u043b\u0430"
+        ],
+        "fi": [
+          "Nukke"
+        ],
+        "pt": [
+          "Boneca"
+        ],
+        "bg": [
+          "\u041a\u0443\u043a\u043b\u0430"
+        ],
+        "lt": [
+          "L\u0117l\u0117"
+        ],
+        "lv": [
+          "Lelle"
+        ],
+        "hr": [
+          "Lutka"
+        ],
+        "fr": [
+          "Poup\u00e9e"
+        ],
+        "hu": [
+          "J\u00e1t\u00e9k baba"
+        ],
+        "sl": [
+          "Lutka"
+        ],
+        "ga": [
+          "B\u00e1b\u00f3g"
+        ],
+        "ca": [
+          "Ninot"
+        ],
+        "sv": [
+          "Docka"
+        ],
+        "el": [
+          "\u039a\u03bf\u03cd\u03ba\u03bb\u03b1"
+        ],
+        "en": [
+          "Doll"
+        ],
+        "it": [
+          "Bambola"
+        ],
+        "es": [
+          "Mu\u00f1eca"
+        ],
+        "et": [
+          "Nukk"
+        ],
+        "eu": [
+          "Panpina"
+        ],
+        "cs": [
+          "Panenka"
+        ],
+        "pl": [
+          "Lalka"
+        ],
+        "da": [
+          "Dukke"
+        ],
+        "ro": [
+          "P\u0103pu\u0219\u0103"
+        ],
+        "nl": [
+          "Pop"
+        ]
+      },
+      "edmDatasetName": [
+        "91625_Ag_SE_SwedishNationalHeritage_no_obj"
+      ],
+      "edmIsShownAt": [
+        "https://digitaltmuseum.se/011023816292"
+      ],
+      "edmIsShownBy": [
+        "https://ems.dimu.org/image/032s8YerMrk6?dimension=1200x1200"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "K\u00f6nigreich Schweden"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Ruotsin kuningaskunta"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u044f"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Kungariket Sverige"
+        },
+        {
+          "def": "Kungad\u00f6met Sverige"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Konungad\u00f6met Sverige"
+        },
+        {
+          "def": "\u041a\u0440\u0430\u043b\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u044f"
+        },
+        {
+          "def": "\u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 \u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1\u03c2"
+        },
+        {
+          "def": "Renju tal-I\u017cvezja"
+        },
+        {
+          "def": "L-I\u017cvezja"
+        },
+        {
+          "def": "Kingdom of Sweden"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "se"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Kraljevina \u0160vedska"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "Royaume de Su\u00e8de"
+        },
+        {
+          "def": "Sv\u00e9d Kir\u00e1lys\u00e1g"
+        },
+        {
+          "def": "Reino de Suecia"
+        },
+        {
+          "def": "\u0160v\u00e9dske kr\u00e1\u013eovstvo"
+        },
+        {
+          "def": "Kr\u00f3lestwo Szwecji"
+        },
+        {
+          "def": "Kongeriget Sverige"
+        },
+        {
+          "def": "Regne de Su\u00e8cia"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "K\u00f6nigreich Schweden",
+          "SE",
+          "SWE"
+        ],
+        "fi": [
+          "Ruotsin kuningaskunta"
+        ],
+        "ru": [
+          "Sverige",
+          "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u044f"
+        ],
+        "sv": [
+          "Konungariket Sverige",
+          "Kungariket Sverige",
+          "Kungad\u00f6met Sverige",
+          "SE",
+          "SWE",
+          "Konungad\u00f6met Sverige"
+        ],
+        "bg": [
+          "\u041a\u0440\u0430\u043b\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u044f"
+        ],
+        "el": [
+          "\u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 \u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1\u03c2"
+        ],
+        "mt": [
+          "Renju tal-I\u017cvezja",
+          "L-I\u017cvezja"
+        ],
+        "en": [
+          "Kingdom of Sweden",
+          "SE",
+          "se",
+          "SWE",
+          "Sverige",
+          "Konungariket Sverige"
+        ],
+        "hr": [
+          "Kraljevina \u0160vedska"
+        ],
+        "it": [
+          "Sverige",
+          "Konungariket Sverige"
+        ],
+        "fr": [
+          "SE",
+          "Royaume de Su\u00e8de"
+        ],
+        "hu": [
+          "Sv\u00e9d Kir\u00e1lys\u00e1g"
+        ],
+        "es": [
+          "Reino de Suecia"
+        ],
+        "sk": [
+          "\u0160v\u00e9dske kr\u00e1\u013eovstvo"
+        ],
+        "pl": [
+          "Kr\u00f3lestwo Szwecji"
+        ],
+        "da": [
+          "Kongeriget Sverige"
+        ],
+        "ca": [
+          "Regne de Su\u00e8cia"
+        ],
+        "nl": [
+          "SE",
+          "SWE"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Schweden"
+        },
+        {
+          "def": "\u0428\u0432\u0435\u0446\u0438\u044f"
+        },
+        {
+          "def": "Ruotsi"
+        },
+        {
+          "def": "Su\u00e9cia"
+        },
+        {
+          "def": "\u0428\u0432\u0435\u0446\u0438\u044f"
+        },
+        {
+          "def": "\u0160vedija"
+        },
+        {
+          "def": "Zviedrija"
+        },
+        {
+          "def": "\u0160vedska"
+        },
+        {
+          "def": "Su\u00e8de"
+        },
+        {
+          "def": "Sv\u00e9dorsz\u00e1g"
+        },
+        {
+          "def": "\u0160v\u00e9dsko"
+        },
+        {
+          "def": "\u0160vedska"
+        },
+        {
+          "def": "An tSualainn"
+        },
+        {
+          "def": "Su\u00e8cia"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "\u017bvezja"
+        },
+        {
+          "def": "\u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1"
+        },
+        {
+          "def": "Sweden"
+        },
+        {
+          "def": "Svezia"
+        },
+        {
+          "def": "Suecia"
+        },
+        {
+          "def": "Rootsi"
+        },
+        {
+          "def": "Suedia"
+        },
+        {
+          "def": "\u0160v\u00e9dsko"
+        },
+        {
+          "def": "Szwecja"
+        },
+        {
+          "def": "Suedia"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Zweden"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Schweden"
+        ],
+        "ru": [
+          "\u0428\u0432\u0435\u0446\u0438\u044f"
+        ],
+        "fi": [
+          "Ruotsi"
+        ],
+        "pt": [
+          "Su\u00e9cia"
+        ],
+        "bg": [
+          "\u0428\u0432\u0435\u0446\u0438\u044f"
+        ],
+        "lt": [
+          "\u0160vedija"
+        ],
+        "lv": [
+          "Zviedrija"
+        ],
+        "hr": [
+          "\u0160vedska"
+        ],
+        "fr": [
+          "Su\u00e8de"
+        ],
+        "hu": [
+          "Sv\u00e9dorsz\u00e1g"
+        ],
+        "sk": [
+          "\u0160v\u00e9dsko"
+        ],
+        "sl": [
+          "\u0160vedska"
+        ],
+        "ga": [
+          "An tSualainn"
+        ],
+        "ca": [
+          "Su\u00e8cia"
+        ],
+        "sv": [
+          "Sverige"
+        ],
+        "mt": [
+          "\u017bvezja"
+        ],
+        "el": [
+          "\u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1"
+        ],
+        "en": [
+          "Sweden"
+        ],
+        "it": [
+          "Svezia"
+        ],
+        "es": [
+          "Suecia"
+        ],
+        "et": [
+          "Rootsi"
+        ],
+        "eu": [
+          "Suedia"
+        ],
+        "cs": [
+          "\u0160v\u00e9dsko"
+        ],
+        "pl": [
+          "Szwecja"
+        ],
+        "ro": [
+          "Suedia"
+        ],
+        "da": [
+          "Sverige"
+        ],
+        "nl": [
+          "Zweden"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "61.0"
+      ],
+      "edmPlaceLongitude": [
+        "15.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fems.dimu.org%2Fimage%2F032s8YerMrk6%3Fdimension%3D1200x1200&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1980-01-01/1980-01-01"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX \u0432\u0435\u043a"
+        },
+        {
+          "def": "S\u00e9culo XX"
+        },
+        {
+          "def": "20 \u0432\u0435\u043a"
+        },
+        {
+          "def": "XX am\u017eius"
+        },
+        {
+          "def": "20. stolje\u0107e"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe si\u00e8cle"
+        },
+        {
+          "def": "20. sz\u00e1zad"
+        },
+        {
+          "def": "20. storo\u010die"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20\u00fa haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20\u03cc\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. stolet\u00ed"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. \u00e5rhundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX \u0432\u0435\u043a"
+        ],
+        "pt": [
+          "S\u00e9culo XX"
+        ],
+        "bg": [
+          "20 \u0432\u0435\u043a"
+        ],
+        "lt": [
+          "XX am\u017eius"
+        ],
+        "hr": [
+          "20. stolje\u0107e"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe si\u00e8cle"
+        ],
+        "hu": [
+          "20. sz\u00e1zad"
+        ],
+        "sk": [
+          "20. storo\u010die"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20\u00fa haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20\u03cc\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. stolet\u00ed"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1980-01-01/1980-01-01"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. \u00e5rhundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "91625_Ag_SE_SwedishNationalHeritage_no_obj"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91625/nomu_object_NM0312865?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/91625/nomu_object_NM0312865",
+      "index": 0,
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/91625/nomu_object_NM0312865.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ],
+      "score": 21.629433,
+      "timestamp": 1752004645360,
+      "timestamp_created": "2019-04-27T19:33:31.567Z",
+      "timestamp_created_epoch": 1556393611567,
+      "timestamp_update": "2025-03-19T13:31:20.513Z",
+      "timestamp_update_epoch": 1742391080513,
+      "title": [
+        "Docka"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 10,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "Badisches Landesmuseum Karlsruhe"
+      ],
+      "dcDescription": [
+        "Das Kinoplakat im gezeichneten Stil von dem dritten Star-Wars-Film \u201eDie R\u00fcckkehr der Jedi-Ritter\u201c ist gepr\u00e4gt von einem farblichen Kontrast zwischen hell und dunkel, symbolisch f\u00fcr den Gut-B\u00f6se-Gegensatz. Auf der hellen Seite befinden sich in der Bildmitte die drei Protagonisten: Jedi-Ritter Luke Skywalker (Mark Hamill), Schmuggler Han Solo (Harrison Ford) und Prinzessin Leia Organa (Carrie Fisher). Die dunkle Seite des Plakats wird von dem ikonischen Helm des Antagonisten Darth Vader (David Prowse) eingenommen. Rundherum sind weitere Figuren und Handlungsorte des Films abgebildet. Ideengeber George Lucas verarbeitete in der urspr\u00fcnglichen Star-Wars-Saga verschiedene Mythen und Filmklassiker. Aber auch Referenzen zu Geschichte und Zeitgeschehen \u2013 wie etwa Massenvernichtungswaffen oder der Vietnamkrieg \u2013 wurden genutzt. Wie seine beiden Vorg\u00e4nger war \u201eDie R\u00fcckkehr der Jedi-Ritter\u201c an den Kinokassen \u00fcberaus erfolgreich und zog allein in der BRD mehr als f\u00fcnf Millionen Zuschauer*innen an. Neben Filmen wurde Star-Wars vor allem durch Merchandise fester Bestandteil der modernen Popkultur."
+      ],
+      "dcDescriptionLangAware": {
+        "de": [
+          "Das Kinoplakat im gezeichneten Stil von dem dritten Star-Wars-Film \u201eDie R\u00fcckkehr der Jedi-Ritter\u201c ist gepr\u00e4gt von einem farblichen Kontrast zwischen hell und dunkel, symbolisch f\u00fcr den Gut-B\u00f6se-Gegensatz. Auf der hellen Seite befinden sich in der Bildmitte die drei Protagonisten: Jedi-Ritter Luke Skywalker (Mark Hamill), Schmuggler Han Solo (Harrison Ford) und Prinzessin Leia Organa (Carrie Fisher). Die dunkle Seite des Plakats wird von dem ikonischen Helm des Antagonisten Darth Vader (David Prowse) eingenommen. Rundherum sind weitere Figuren und Handlungsorte des Films abgebildet. Ideengeber George Lucas verarbeitete in der urspr\u00fcnglichen Star-Wars-Saga verschiedene Mythen und Filmklassiker. Aber auch Referenzen zu Geschichte und Zeitgeschehen \u2013 wie etwa Massenvernichtungswaffen oder der Vietnamkrieg \u2013 wurden genutzt. Wie seine beiden Vorg\u00e4nger war \u201eDie R\u00fcckkehr der Jedi-Ritter\u201c an den Kinokassen \u00fcberaus erfolgreich und zog allein in der BRD mehr als f\u00fcnf Millionen Zuschauer*innen an. Neben Filmen wurde Star-Wars vor allem durch Merchandise fester Bestandteil der modernen Popkultur."
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Filmplakat: \"Star Wars - Die R\u00fcckkehr der Jedi-Ritter\""
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2090",
+        "https://d-nb.info/gnd/4154371-3",
+        "https://d-nb.info/gnd/4044522-7"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Paperi"
+        },
+        {
+          "def": "\u0411\u0443\u043c\u0430\u0433\u0430"
+        },
+        {
+          "def": "Papel"
+        },
+        {
+          "def": "\u0425\u0430\u0440\u0442\u0438\u044f"
+        },
+        {
+          "def": "Popierius"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Pap\u012brs"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Pap\u00edr"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "P\u00e1ip\u00e9ar"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Papper"
+        },
+        {
+          "def": "\u03a7\u03b1\u03c1\u03c4\u03af"
+        },
+        {
+          "def": "Karta"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Carta"
+        },
+        {
+          "def": "Papel"
+        },
+        {
+          "def": "Paber"
+        },
+        {
+          "def": "Pap\u00edr"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "H\u00e2rtie"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Filmplakat"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Papier"
+        ],
+        "fi": [
+          "Paperi"
+        ],
+        "ru": [
+          "\u0411\u0443\u043c\u0430\u0433\u0430"
+        ],
+        "def": [
+          "Filmplakat"
+        ],
+        "pt": [
+          "Papel"
+        ],
+        "bg": [
+          "\u0425\u0430\u0440\u0442\u0438\u044f"
+        ],
+        "lt": [
+          "Popierius"
+        ],
+        "hr": [
+          "Papir"
+        ],
+        "lv": [
+          "Pap\u012brs"
+        ],
+        "fr": [
+          "Papier"
+        ],
+        "hu": [
+          "Pap\u00edr"
+        ],
+        "sk": [
+          "Papier"
+        ],
+        "sl": [
+          "Papir"
+        ],
+        "ga": [
+          "P\u00e1ip\u00e9ar"
+        ],
+        "ca": [
+          "Paper"
+        ],
+        "sv": [
+          "Papper"
+        ],
+        "el": [
+          "\u03a7\u03b1\u03c1\u03c4\u03af"
+        ],
+        "mt": [
+          "Karta"
+        ],
+        "en": [
+          "Paper"
+        ],
+        "it": [
+          "Carta"
+        ],
+        "es": [
+          "Papel"
+        ],
+        "et": [
+          "Paber"
+        ],
+        "cs": [
+          "Pap\u00edr"
+        ],
+        "eu": [
+          "Paper"
+        ],
+        "pl": [
+          "Papier"
+        ],
+        "da": [
+          "Papir"
+        ],
+        "ro": [
+          "H\u00e2rtie"
+        ],
+        "nl": [
+          "Papier"
+        ]
+      },
+      "edmDatasetName": [
+        "1236_DDB_BLK"
+      ],
+      "edmIsShownAt": [
+        "https://katalog.landesmuseum.de/object/6D66E90785C344DD9095DE1A15E15FBB"
+      ],
+      "edmIsShownBy": [
+        "https://expo.bsz-bw.de/blm/digitaler-katalog/image?id=6D66E90785C344DD9095DE1A15E15FBB&pos=0&width=0"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "San Franzisko, Calif."
+        },
+        {
+          "def": "Yerba Buena, Calif."
+        },
+        {
+          "def": "Frisco, Calif."
+        },
+        {
+          "def": "San Francisco, California"
+        },
+        {
+          "def": "San Francisco, CA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "def": [
+          "San Franzisko, Calif.",
+          "Yerba Buena, Calif.",
+          "Frisco, Calif.",
+          "San Francisco, California",
+          "San Francisco, CA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Karlsruhe"
+        },
+        {
+          "def": "San Francisco, Calif."
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Karlsruhe"
+        ],
+        "def": [
+          "San Francisco, Calif."
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fexpo.bsz-bw.de%2Fblm%2Fdigitaler-katalog%2Fimage%3Fid%3D6D66E90785C344DD9095DE1A15E15FBB%26pos%3D0%26width%3D0&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1983"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX \u0432\u0435\u043a"
+        },
+        {
+          "def": "S\u00e9culo XX"
+        },
+        {
+          "def": "20 \u0432\u0435\u043a"
+        },
+        {
+          "def": "XX am\u017eius"
+        },
+        {
+          "def": "20. stolje\u0107e"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe si\u00e8cle"
+        },
+        {
+          "def": "20. sz\u00e1zad"
+        },
+        {
+          "def": "20. storo\u010die"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20\u00fa haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20\u03cc\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. stolet\u00ed"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. \u00e5rhundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX \u0432\u0435\u043a"
+        ],
+        "pt": [
+          "S\u00e9culo XX"
+        ],
+        "bg": [
+          "20 \u0432\u0435\u043a"
+        ],
+        "lt": [
+          "XX am\u017eius"
+        ],
+        "hr": [
+          "20. stolje\u0107e"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe si\u00e8cle"
+        ],
+        "hu": [
+          "20. sz\u00e1zad"
+        ],
+        "sk": [
+          "20. storo\u010die"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20\u00fa haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20\u03cc\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. stolet\u00ed"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1983"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. \u00e5rhundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "1236_DDB_BLK"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/1236/item_OHJQDTMON7E6CEXRXPBWJ4JUXZ4PLB57?utm_source=api&utm_medium=api&utm_campaign=HIDDEN_API_KEY",
+      "id": "/1236/item_OHJQDTMON7E6CEXRXPBWJ4JUXZ4PLB57",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/1236/item_OHJQDTMON7E6CEXRXPBWJ4JUXZ4PLB57.json?wskey=HIDDEN_API_KEY",
+      "previewNoDistribute": false,
+      "provider": [
+        "German Digital Library"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ],
+      "score": 20.832808,
+      "timestamp": 1752064387939,
+      "timestamp_created": "2024-09-24T11:46:58.686Z",
+      "timestamp_created_epoch": 1727178418686,
+      "timestamp_update": "2024-09-24T11:46:58.686Z",
+      "timestamp_update_epoch": 1727178418686,
+      "title": [
+        "Filmplakat: \"Star Wars - Die R\u00fcckkehr der Jedi-Ritter\""
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  ]
+}
